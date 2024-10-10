@@ -9,7 +9,7 @@
 
 - 🤝 Graduated from **Southwest Minzu University (Undergraduate)**
 
-- 💬 Ask me about **Teaching, AI, Rail Transportation**
+- 💬 Ask me about **Teaching, AI, Urban Rail Transportation**
 
 - 📫 How to reach me **yeswhos@svtcc.edu.cn**
 
