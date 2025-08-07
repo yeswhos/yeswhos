@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fanhui</h1>
 <h3 align="center">A College Teacher, formerly an Algorithm Engineer in Chengdu, China.</h3>
 
-- 🔭 I’m currently working at **Sichuan Vocational and Technical College of Communications, Department of Rail Transportation Engineering**
+- 🔭 I’m currently working at **Sichuan Vocational and Technical College of Communications**
 
-- 🌱 I’m currently learning **Urban Rail Vehicles, Sichuan dialect**
+- 🌱 I’m currently learning **Latest AI tech, Sichuan dialect**
 
 - 👯 Postgraduate from **University of Leeds.**
 
 - 🤝 Undergraduate from **Southwest Minzu University**
 
-- 💬 Ask me about **Teaching, AI, Urban Rail Transportation**
+- 💬 Ask me about **Teaching, AI**
 
 - 📫 How to reach me **yeswhos@svtcc.edu.cn**
 
